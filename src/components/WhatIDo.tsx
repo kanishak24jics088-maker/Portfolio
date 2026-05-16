@@ -87,24 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>GATE PREPARATION</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Qualified GATE in 2026 with a score of 343, demonstrating a strong background in core computer science subjects.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Core Subjects</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Data Structures</div>
+                <div className="what-tags">Algorithms</div>
+                <div className="what-tags">Operating Systems</div>
+                <div className="what-tags">DBMS</div>
+                <div className="what-tags">Computer Networks</div>
+                <div className="what-tags">Computer Architecture</div>
+                <div className="what-tags">Theory of Computation</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +124,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>DATA ANALYTICS</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Analyzing complex datasets and creating interactive visualizations to drive business insights.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">Data Visualization</div>
+                <div className="what-tags">Data Cleaning</div>
+                <div className="what-tags">Dashboard Dev</div>
+                <div className="what-tags">DAX</div>
+                <div className="what-tags">Power Query</div>
+                <div className="what-tags">Jupyter Notebook</div>
               </div>
               <div className="what-arrow"></div>
             </div>
